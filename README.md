@@ -1,6 +1,6 @@
-# tzpranto.github.io
+# ataullha.github.io
 
-GitHub personal website. Visit my website http://tzpranto.github.io
+GitHub personal website. Visit my website http://ataullha.github.io
 
 ## Usage
 
