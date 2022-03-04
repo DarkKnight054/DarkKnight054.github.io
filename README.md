@@ -1,6 +1,6 @@
 # omarsultan.github.io
 
-GitHub personal website. Visit my website http://omarsultan.github.io
+GitHub personal website. Visit my website http://DarkKnight054.github.io
 
 ## Usage
 
